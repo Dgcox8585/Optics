@@ -1,0 +1,62 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  font-family: "Helvetica";
+  line-height: 1.4;
+}
+
+h1,
+.title {
+  font-weight: bold;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* Header */
+.company {
+  background-color: cadetblue;
+  color: white;
+}
+
+.company .container {
+  display: flex;
+  align-items: center;
+  padding: 2rem 1rem;
+  margin-top: 1rem;
+}
+
+.company img {
+  height: 1.5rem;
+}
+
+/* Main Banner */
+.main-heading {
+  background-image: url(../../resources/images/main-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 30rem;
+}
+
+.box {
+  position: relative;
+  top: 10rem;
+  padding: 5rem 1.5rem;
+  background-color: white;
+  color: black;
+  margin-right: 2rem;
+  width:
+}
+
+/* Services */
+
+
+/* Business Info */
+
+
+/* Footer */
